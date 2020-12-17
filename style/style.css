@@ -45,16 +45,16 @@ section:nth-child(even) {
 }
 
 section {
-    min-height: 100vh;
+    min-height: 75vh;
 }
 
 video {
     padding: 10px;
 }
 
-iframe {
+/* iframe {
     height: 75vh;
-}
+} */
 
 img {
     padding: 10px;
